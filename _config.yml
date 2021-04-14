@@ -32,7 +32,7 @@ github_username:  dlaffoon
 linkedin_username: dlaffoon
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
